@@ -20,6 +20,7 @@ import javafx.stage.Stage;
  */
 public class ViewerQuery1 extends Application {
     private int degree = 0;
+    int test=0;
     @Override
     public void start(Stage primaryStage) {
         BorderPane root  = new BorderPane();
